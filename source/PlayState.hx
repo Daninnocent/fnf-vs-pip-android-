@@ -4311,6 +4311,7 @@ class PlayState extends MusicBeatState
 			transitioning = true;
 
 	}
+	}
 
 	function pipDiesOfDeath():Void // just a copy of finish song but pip dies lmao
 		{
