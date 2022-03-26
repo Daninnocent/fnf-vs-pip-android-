@@ -4312,8 +4312,6 @@ class PlayState extends MusicBeatState
 
 	}
 
-	}
-
 	function pipDiesOfDeath():Void // just a copy of finish song but pip dies lmao
 		{
 			//Should kill you if you tried to cheat
