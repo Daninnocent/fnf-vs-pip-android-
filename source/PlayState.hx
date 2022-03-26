@@ -4068,7 +4068,7 @@ class PlayState extends MusicBeatState
 	
 
 	public var transitioning = false;
-	public function endSong():Void
+  public function endSong():Void
 	{
 		#if mobileC
 		mcontrols.visible = false;
@@ -4078,12 +4078,12 @@ class PlayState extends MusicBeatState
 		if(!startingSong) {
 			notes.forEach(function(daNote:Note) {
 				if(daNote.strumTime < songLength - Conductor.safeZoneOffset) {
-					health -= 0.05 * healthLoss;
+					health -= 0.0475;
 				}
 			});
 			for (daNote in unspawnNotes) {
 				if(daNote.strumTime < songLength - Conductor.safeZoneOffset) {
-					health -= 0.05 * healthLoss;
+					health -= 0.0475;
 				}
 			}
 
@@ -4091,40 +4091,32 @@ class PlayState extends MusicBeatState
 				return;
 			}
 		}
-		if (SONG.song.toLowerCase() != 'pip' && isStoryMode){
+		
 		timeBarBG.visible = false;
 		timeBar.visible = false;
 		timeTxt.visible = false;
-		}
 		canPause = false;
 		endingSong = true;
 		camZooming = false;
 		inCutscene = false;
+		updateTime = false;
 
 		deathCounter = 0;
 		seenCutscene = false;
-		updateTime = false;
-
 
 		#if ACHIEVEMENTS_ALLOWED
 		if(achievementObj != null) {
 			return;
 		} else {
-			var achieve:String = checkForAchievement();
-
-			if(achieve != null) {
+			var achieve:Int = checkForAchievement([1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 13, 14, 15]);
+			if(achieve > -1) {
 				startAchievement(achieve);
 				return;
 			}
 		}
 		#end
 
-		
-		// #if LUA_ALLOWED
 		var ret:Dynamic = callOnLuas('onEndSong', []);
-		// #else
-		// var ret:Dynamic = FunkinLua.Function_Continue;
-		// #end
 
 		if(ret != FunkinLua.Function_Stop && !transitioning) {
 			if (SONG.validScore)
@@ -4134,15 +4126,7 @@ class PlayState extends MusicBeatState
 				if(Math.isNaN(percent)) percent = 0;
 				Highscore.saveScore(SONG.song, songScore, storyDifficulty, percent);
 				#end
-			}			
-	
-
-			// if (chartingMode)
-			// {
-			// 	openChartEditor();
-			// 	return;
-			// }
-			
+			}
 
 			if (isStoryMode)
 			{
@@ -4153,43 +4137,17 @@ class PlayState extends MusicBeatState
 
 				if (storyPlaylist.length <= 0)
 				{
-
-					
-					if (Paths.formatToSongPath(SONG.song) == 'cray-cray' && !ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)){
-						FlxG.save.data.PipModWeekCompleted = 1;
-						trace("yay trophy!");
-						if ((ratingFC == 'FC' || ratingFC == 'GFC' || ratingFC =='SFC')){
-							trace("yay gold trophy!");
-							FlxG.save.data.PipModFC = 3;
-							FlxG.save.data.PipModFCedCray = true;
-
-						}
-
-						FlxG.save.flush();
-					}
-					if (Paths.formatToSongPath(SONG.song) == 'pussy' && !ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)) // only if we complete it in story mode
-						if (FlxG.save.data.PussyModWeekCompleted != 2){ // so you dont lose the gold lmao
-							FlxG.save.data.PussyModWeekCompleted = 1;
-							trace("PUSSSY");
-							FlxG.save.flush();
-						}
-					if (Paths.formatToSongPath(SONG.song) == 'pussy' && (ratingFC == 'FC' || ratingFC == 'GFC' || ratingFC =='SFC') && !ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)){
-						FlxG.save.data.PussyModWeekCompleted = 2;
-						trace("FCED PUSSY WTF");
-						FlxG.save.flush();
-					}
-
 					FlxG.sound.playMusic(Paths.music('freakyMenu'));
 
-					cancelMusicFadeTween();
+					cancelFadeTween();
+					CustomFadeTransition.nextCamera = camOther;
 					if(FlxTransitionableState.skipNextTransIn) {
 						CustomFadeTransition.nextCamera = null;
 					}
 					MusicBeatState.switchState(new StoryMenuState());
 
 					// if ()
-					if(!ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)) {
-						StoryMenuState.weekCompleted.set(WeekData.weeksList[storyWeek], true);
+
 
 						if (SONG.validScore)
 						{
@@ -4200,36 +4158,12 @@ class PlayState extends MusicBeatState
 						FlxG.save.flush();
 					}
 					changedDifficulty = false;
+					cpuControlled = false;
 				}
 				else
 				{
-					var difficulty:String = CoolUtil.getDifficultyFilePath();
+					var difficulty:String = '' + CoolUtil.difficultyStuff[storyDifficulty][1];
 
-					if ((ratingFC == 'FC' || ratingFC == 'GFC' || ratingFC =='SFC') && !ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)){
-						switch(Paths.formatToSongPath(SONG.song))
-						{
-							case "pip":
-								if (FlxG.save.data.PipModFC != 3){
-									FlxG.save.data.PipModFC = 1;
-								}
-								FlxG.save.data.PipModFCedPip = true;
-
-							case "fuck":
-								if (FlxG.save.data.PipModFC == 1){
-									FlxG.save.data.PipModFC = 2;
-								}
-								FlxG.save.data.PipModFCedFuck = true;
-
-							case "cray-cray":
-								if (FlxG.save.data.PipModFC == 2){
-									FlxG.save.data.PipModFC = 3;
-								}
-								FlxG.save.data.PipModFCedCray = true;
-
-						trace("FCED da song!");
-						FlxG.save.flush();
-						}
-				}
 					trace('LOADING NEXT SONG');
 					trace(Paths.formatToSongPath(PlayState.storyPlaylist[0]) + difficulty);
 
@@ -4256,61 +4190,32 @@ class PlayState extends MusicBeatState
 
 					if(winterHorrorlandNext) {
 						new FlxTimer().start(1.5, function(tmr:FlxTimer) {
-							cancelMusicFadeTween();
+							cancelFadeTween();
+							//resetSpriteCache = true;
 							LoadingState.loadAndSwitchState(new PlayState());
 						});
 					} else {
-						cancelMusicFadeTween();
+						cancelFadeTween();
+						//resetSpriteCache = true;
 						LoadingState.loadAndSwitchState(new PlayState());
 					}
 				}
 			}
 			else
 			{
-				if ((ratingFC == 'FC' || ratingFC == 'GFC' || ratingFC =='SFC') && !ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)){
-					trace("FCED A PIP freeplay song!");
-					switch(Paths.formatToSongPath(SONG.song))
-					{
-						case "pip":
-								FlxG.save.data.PipModFCedPip = true;		
-						case "fuck":
-								FlxG.save.data.PipModFCedFuck = true;
-
-						case "cray-cray":
-								FlxG.save.data.PipModFCedCray = true;
-
-					}
-			}
-			if (FlxG.save.data.PipModFCedPip&&FlxG.save.data.PipModFCedFuck&&FlxG.save.data.PipModFCedCray){
-				trace('FC PIP ON FREEPLAY!??!?!?');
-				FlxG.save.data.PipModWeekCompleted = 1;
-				FlxG.save.data.PipModFC = 3;
-			}
-
-				if (Paths.formatToSongPath(SONG.song) == 'pussy' && !ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)) // only if we complete it in story mode
-					if (FlxG.save.data.PussyModWeekCompleted != 2){ // so you dont lose the gold lmao
-						FlxG.save.data.PussyModWeekCompleted = 1;
-						trace("FREE PUSSSY");
-						FlxG.save.flush();
-					}
-				if (Paths.formatToSongPath(SONG.song) == 'pussy' && (ratingFC == 'FC' || ratingFC == 'GFC' || ratingFC =='SFC') && !ClientPrefs.getGameplaySetting('practice', false) && !ClientPrefs.getGameplaySetting('botplay', false)){
-					FlxG.save.data.PussyModWeekCompleted = 2;
-					trace("FCED PUSSY IN FREEPLAY WTF");
-					FlxG.save.flush();
-				}
-
 				trace('WENT BACK TO FREEPLAY??');
-				cancelMusicFadeTween();
+				cancelFadeTween();
+				CustomFadeTransition.nextCamera = camOther;
 				if(FlxTransitionableState.skipNextTransIn) {
 					CustomFadeTransition.nextCamera = null;
 				}
 				MusicBeatState.switchState(new FreeplayState());
 				FlxG.sound.playMusic(Paths.music('freakyMenu'));
 				changedDifficulty = false;
+				cpuControlled = false;
 			}
 			transitioning = true;
-
-	}
+		}
 	}
 
 	function pipDiesOfDeath():Void // just a copy of finish song but pip dies lmao
