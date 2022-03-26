@@ -1246,7 +1246,7 @@ class PlayState extends MusicBeatState
 		}
 
 		if(ClientPrefs.downScroll) {
-			daninnocentTxt.y = 348;
+			daninnocentTxt.y = 148;
 		}
 
 		// holy shit daninnocent watermark downscroll support?!?!?!?!?
