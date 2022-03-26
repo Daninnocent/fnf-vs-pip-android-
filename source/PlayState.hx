@@ -4131,7 +4131,7 @@ class PlayState extends MusicBeatState
 			if (isStoryMode)
 			{
 				campaignScore += songScore;
-				 += songMisses;
+				campaignMisses += songMisses;
 
 				storyPlaylist.remove(storyPlaylist[0]);
 
