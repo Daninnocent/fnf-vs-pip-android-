@@ -1,0 +1,100 @@
+{
+	"song": {
+		"speed": 2.69,
+		"stage": "alleyways",
+		"player1": "bf",
+		"player2": "pimposter",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set CamZoom",
+						"0.96",
+						""
+					]
+				]
+			],
+			[
+				90707.6086956522,
+				[
+					[
+						"hidehud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				90826.0869565215,
+				[
+					[
+						"Set CamZoom",
+						"0.86",
+						""
+					]
+				]
+			],
+			[
+				91347.8260869563,
+				[
+					[
+						"Set CamZoom",
+						"1.6",
+						""
+					],
+					[
+						"Play Animation",
+						"singUP-alt",
+						"Dad"
+					],
+					[
+						"Screen Shake",
+						"0.5, 0.01",
+						"0.7, 0"
+					]
+				]
+			],
+			[
+				91676.0869565218,
+				[
+					[
+						"bringBackhud",
+						"singUP-alt",
+						"Dad"
+					]
+				]
+			],
+			[
+				91826.0869565215,
+				[
+					[
+						"Set CamZoom",
+						"0.96",
+						""
+					]
+				]
+			],
+			[
+				91956.5217391305,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ded",
+		"bpm": 335,
+		"mania": 3,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Pussy"
+	}
+}

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MenuShitAssets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A-lockedtrophy instance 10000" x="0" y="0" width="542" height="959" frameX="-5" frameY="-3" frameWidth="554" frameHeight="968"/>
+	<SubTexture name="A-lockedtrophy instance 10001" x="0" y="0" width="542" height="959" frameX="-5" frameY="-3" frameWidth="554" frameHeight="968"/>
+	<SubTexture name="A-lockedtrophy instance 10002" x="542" y="0" width="547" height="964" frameX="-3" frameY="0" frameWidth="554" frameHeight="968"/>
+	<SubTexture name="A-lockedtrophy instance 10003" x="542" y="0" width="547" height="964" frameX="-3" frameY="0" frameWidth="554" frameHeight="968"/>
+	<SubTexture name="A-lockedtrophy instance 10004" x="1089" y="0" width="554" height="967" frameX="0" frameY="-1" frameWidth="554" frameHeight="968"/>
+	<SubTexture name="A-lockedtrophy instance 10005" x="1089" y="0" width="554" height="967" frameX="0" frameY="-1" frameWidth="554" frameHeight="968"/>
+	<SubTexture name="B-lockedtrophyselect instance 10000" x="1643" y="0" width="578" height="964" frameX="-6" frameY="0" frameWidth="584" frameHeight="965"/>
+	<SubTexture name="B-lockedtrophyselect instance 10001" x="1643" y="0" width="578" height="964" frameX="-6" frameY="0" frameWidth="584" frameHeight="965"/>
+	<SubTexture name="B-lockedtrophyselect instance 10002" x="2221" y="0" width="581" height="965" frameX="0" frameY="0" frameWidth="584" frameHeight="965"/>
+	<SubTexture name="B-lockedtrophyselect instance 10003" x="2221" y="0" width="581" height="965" frameX="0" frameY="0" frameWidth="584" frameHeight="965"/>
+	<SubTexture name="B-lockedtrophyselect instance 10004" x="2802" y="0" width="566" height="956" frameX="-12" frameY="-8" frameWidth="584" frameHeight="965"/>
+	<SubTexture name="B-lockedtrophyselect instance 10005" x="2802" y="0" width="566" height="956" frameX="-12" frameY="-8" frameWidth="584" frameHeight="965"/>
+	<SubTexture name="C-goldpip instance 10000" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10001" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10002" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10003" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10004" x="3904" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10005" x="3904" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10006" x="4440" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10007" x="4440" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10008" x="4976" y="0" width="536" height="1005" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10009" x="4976" y="0" width="536" height="1005" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10010" x="5512" y="0" width="536" height="1012"/>
+	<SubTexture name="C-goldpip instance 10011" x="5512" y="0" width="536" height="1012"/>
+	<SubTexture name="C-goldpip instance 10012" x="6048" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10013" x="6048" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10014" x="6584" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10015" x="6584" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10016" x="7120" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10017" x="7120" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10018" x="7656" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10019" x="7656" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10020" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10021" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10022" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10023" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10024" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="C-goldpip instance 10025" x="3368" y="0" width="536" height="1001" frameX="0" frameY="0" frameWidth="536" frameHeight="1012"/>
+	<SubTexture name="D-goldpussy instance 10000" x="0" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10001" x="0" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10002" x="813" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10003" x="813" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10004" x="1626" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10005" x="1626" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10006" x="2439" y="1012" width="813" height="712" frameX="0" frameY="-11" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10007" x="2439" y="1012" width="813" height="712" frameX="0" frameY="-11" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10008" x="3252" y="1012" width="813" height="723" frameX="0" frameY="0" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10009" x="3252" y="1012" width="813" height="723" frameX="0" frameY="0" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10010" x="4065" y="1012" width="814" height="718" frameX="0" frameY="-5" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10011" x="4065" y="1012" width="814" height="718" frameX="0" frameY="-5" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10012" x="4879" y="1012" width="816" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10013" x="4879" y="1012" width="816" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10014" x="5695" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10015" x="5695" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10016" x="6508" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10017" x="6508" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10018" x="7321" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10019" x="7321" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10020" x="0" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10021" x="0" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10022" x="0" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10023" x="0" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10024" x="0" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="D-goldpussy instance 10025" x="0" y="1012" width="813" height="706" frameX="0" frameY="-17" frameWidth="816" frameHeight="723"/>
+	<SubTexture name="StonePip instance 10000" x="0" y="1735" width="536" height="1000"/>
+	<SubTexture name="StonePussy instance 10000" x="536" y="1735" width="812" height="705"/>
+</TextureAtlas>

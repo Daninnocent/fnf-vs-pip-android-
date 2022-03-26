@@ -1,0 +1,70 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "alleyways",
+		"player1": "bf",
+		"player2": "pip_craycray",
+		"player3": null,
+		"events": [
+			[
+				60593.2377049181,
+				[
+					[
+						"hidehud",
+						"",
+						""
+					]
+				]
+			],
+			[
+				60983.6065573771,
+				[
+					[
+						"Play The Cutscene",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62090.1639344263,
+				[
+					[
+						"Add ExDad",
+						"",
+						""
+					]
+				]
+			],
+			[
+				62827.868852459,
+				[
+					[
+						"Show Space",
+						"",
+						""
+					]
+				]
+			],
+			[
+				63368.8524590164,
+				[
+					[
+						"Play Animation",
+						"ComeOn",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-ded",
+		"bpm": 122,
+		"mania": 4,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Cray Cray"
+	}
+}

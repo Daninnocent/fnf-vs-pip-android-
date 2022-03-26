@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "OkBud",
+			"loop": false,
+			"name": "A"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/VIOLET_GF_ass_sets_CUTSCENE2",
+	"position": [
+		-130,
+		-10
+	],
+	"healthicon": "pip",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		101
+	],
+	"camera_position": [
+		110,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

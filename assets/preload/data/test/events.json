@@ -1,0 +1,109 @@
+{
+	"song": {
+		"speed": 1.6,
+		"stage": null,
+		"player1": "bf",
+		"player2": "bf-pixel-opponent",
+		"player3": null,
+		"events": [
+			[
+				800,
+				[
+					[
+						"Activate extra keys",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				12500,
+				[
+					[
+						"Change P2 Mania",
+						"8",
+						"false"
+					]
+				]
+			],
+			[
+				14100,
+				[
+					[
+						"Change P1 Mania",
+						"8",
+						"false"
+					]
+				]
+			],
+			[
+				15700,
+				[
+					[
+						"Change P2 Mania",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				17300,
+				[
+					[
+						"Change P1 Mania",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				18700,
+				[
+					[
+						"Change P2 Mania",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				20300,
+				[
+					[
+						"Change P1 Mania",
+						"8",
+						""
+					]
+				]
+			],
+			[
+				22400,
+				[
+					[
+						"Change P2 Mania",
+						"9",
+						""
+					]
+				]
+			],
+			[
+				24000,
+				[
+					[
+						"Change P1 Mania",
+						"9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 150,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Test"
+	}
+}

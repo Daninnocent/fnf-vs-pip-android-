@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SPACEBAR_NOTE_assets.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="A-spacebar confirm0000" x="0" y="0" width="984" height="630"/>
+	<SubTexture name="A-spacebar confirm0001" x="984" y="0" width="955" height="612" frameX="-15" frameY="-9" frameWidth="984" frameHeight="630"/>
+	<SubTexture name="A-spacebar confirm0002" x="1939" y="0" width="975" height="622" frameX="-5" frameY="-4" frameWidth="984" frameHeight="630"/>
+	<SubTexture name="A-spacebar confirm0003" x="1939" y="0" width="975" height="622" frameX="-5" frameY="-4" frameWidth="984" frameHeight="630"/>
+	<SubTexture name="AB-spacebar press0000" x="2914" y="0" width="870" height="538" frameX="-17" frameY="-17" frameWidth="902" frameHeight="555"/>
+	<SubTexture name="AB-spacebar press0001" x="2914" y="0" width="870" height="538" frameX="-17" frameY="-17" frameWidth="902" frameHeight="555"/>
+	<SubTexture name="AB-spacebar press0002" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0003" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0004" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0005" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0006" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0007" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0008" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0009" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0010" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0011" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0012" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0013" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0014" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0015" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0016" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0017" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0018" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0019" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0020" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0021" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0022" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0023" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0024" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0025" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="AB-spacebar press0026" x="0" y="630" width="902" height="555"/>
+	<SubTexture name="ABC-spacebar static0000" x="902" y="630" width="928" height="574"/>
+	<SubTexture name="ABCD-spacebar arrow0000" x="1830" y="630" width="413" height="402"/>
+</TextureAtlas>

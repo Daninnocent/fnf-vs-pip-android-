@@ -1,0 +1,49 @@
+{
+	"storyName": "piss man",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"pip",
+			"pip",
+			[
+				255,
+				213,
+				95
+			]
+		],
+		[
+			"fuck",
+			"pip",
+			[
+				255,
+				213,
+				95
+			]
+		],
+		[
+			"cray-cray",
+			"both",
+			[
+				255,
+				213,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Pi Week"
+}

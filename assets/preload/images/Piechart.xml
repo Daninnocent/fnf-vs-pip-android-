@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Piechart.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="E-piedown instance 10000" x="0" y="0" width="977" height="982" frameX="0" frameY="-2" frameWidth="981" frameHeight="987"/>
+	<SubTexture name="E-piedown instance 10001" x="0" y="0" width="977" height="982" frameX="0" frameY="-2" frameWidth="981" frameHeight="987"/>
+	<SubTexture name="E-piedown instance 10002" x="977" y="0" width="977" height="987" frameX="-4" frameY="0" frameWidth="981" frameHeight="987"/>
+	<SubTexture name="E-piedown instance 10003" x="977" y="0" width="977" height="987" frameX="-4" frameY="0" frameWidth="981" frameHeight="987"/>
+	<SubTexture name="E-piedown instance 10004" x="1954" y="0" width="973" height="983" frameX="-6" frameY="-2" frameWidth="981" frameHeight="987"/>
+	<SubTexture name="E-piedown instance 10005" x="1954" y="0" width="973" height="983" frameX="-6" frameY="-2" frameWidth="981" frameHeight="987"/>
+	<SubTexture name="E-piedown instance 10006" x="2927" y="0" width="971" height="982" frameX="-7" frameY="-2" frameWidth="981" frameHeight="987"/>
+	<SubTexture name="E-piedown instance 10007" x="2927" y="0" width="971" height="982" frameX="-7" frameY="-2" frameWidth="981" frameHeight="987"/>
+	<SubTexture name="F-pieup instance 10000" x="0" y="987" width="981" height="981" frameX="-4" frameY="0" frameWidth="985" frameHeight="984"/>
+	<SubTexture name="F-pieup instance 10001" x="0" y="987" width="981" height="981" frameX="-4" frameY="0" frameWidth="985" frameHeight="984"/>
+	<SubTexture name="F-pieup instance 10002" x="981" y="987" width="980" height="984" frameX="-1" frameY="0" frameWidth="985" frameHeight="984"/>
+	<SubTexture name="F-pieup instance 10003" x="981" y="987" width="980" height="984" frameX="-1" frameY="0" frameWidth="985" frameHeight="984"/>
+	<SubTexture name="F-pieup instance 10004" x="1961" y="987" width="972" height="982" frameX="0" frameY="-1" frameWidth="985" frameHeight="984"/>
+	<SubTexture name="F-pieup instance 10005" x="1961" y="987" width="972" height="982" frameX="0" frameY="-1" frameWidth="985" frameHeight="984"/>
+	<SubTexture name="F-pieup instance 10006" x="2933" y="987" width="971" height="982" frameX="-1" frameY="-1" frameWidth="985" frameHeight="984"/>
+	<SubTexture name="F-pieup instance 10007" x="2933" y="987" width="971" height="982" frameX="-1" frameY="-1" frameWidth="985" frameHeight="984"/>
+	<SubTexture name="pie instance 10000" x="0" y="1971" width="971" height="982"/>
+</TextureAtlas>

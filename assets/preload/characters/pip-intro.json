@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "OkBud",
+			"loop": false,
+			"name": "A"
+		},
+		{
+			"offsets": [
+				-25,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Start",
+			"loop": false,
+			"name": "B"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pip_Cutscene_Anims",
+	"position": [
+		-130,
+		-10
+	],
+	"healthicon": "pip",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		195,
+		101
+	],
+	"camera_position": [
+		110,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

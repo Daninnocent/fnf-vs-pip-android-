@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-62,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "B"
+		},
+		{
+			"offsets": [
+				-60,
+				168
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "C"
+		},
+		{
+			"offsets": [
+				-153,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "F"
+		},
+		{
+			"offsets": [
+				-48,
+				31
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "D"
+		},
+		{
+			"offsets": [
+				-162,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "E"
+		},
+		{
+			"offsets": [
+				-52,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "G"
+		},
+		{
+			"offsets": [
+				-41,
+				190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "Vent",
+			"indices": [],
+			"name": "A"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Definitive_Pussy_Assets",
+	"position": [
+		-130,
+		70
+	],
+	"healthicon": "pimposter",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		205,
+		101
+	],
+	"camera_position": [
+		130,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.5
+}

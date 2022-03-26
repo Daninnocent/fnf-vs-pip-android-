@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PIPNOTE_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="DANGERnote0000" x="0" y="0" width="886" height="724"/>
+	<SubTexture name="DANGERnote0001" x="886" y="0" width="886" height="724"/>
+	<SubTexture name="DANGERnote0002" x="1772" y="0" width="886" height="724"/>
+	<SubTexture name="DANGERnote0003" x="886" y="0" width="886" height="724"/>
+	<SubTexture name="DANGERnote0004" x="0" y="0" width="886" height="724"/>
+	<SubTexture name="red hold end0000" x="2658" y="0" width="50" height="64"/>
+	<SubTexture name="red hold piece0000" x="2708" y="0" width="50" height="44"/>
+	<SubTexture name="B0000" x="2758" y="0" width="826" height="826"/>
+	<SubTexture name="A0000" x="0" y="826" width="827" height="826"/>
+	<SubTexture name="C0000" x="827" y="826" width="826" height="836"/>
+	<SubTexture name="C0001" x="827" y="826" width="826" height="836"/>
+	<SubTexture name="C0002" x="827" y="826" width="826" height="836"/>
+	<SubTexture name="C0003" x="827" y="826" width="826" height="836"/>
+	<SubTexture name="C0004" x="827" y="826" width="826" height="836"/>
+	<SubTexture name="D0000" x="1653" y="826" width="826" height="826"/>
+</TextureAtlas>

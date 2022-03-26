@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Pip_fuck.png"><SubTexture name="A-PipIdle0000" x="3058" y="894" width="567" height="891" frameX="-10" frameY="-30" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0001" x="3058" y="894" width="567" height="891" frameX="-10" frameY="-30" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0002" x="1730" y="1891" width="565" height="904" frameX="-15" frameY="-18" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0003" x="1730" y="1891" width="565" height="904" frameX="-15" frameY="-18" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0004" x="1902" y="917" width="571" height="910" frameX="-10" frameY="-12" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0005" x="1902" y="917" width="571" height="910" frameX="-10" frameY="-12" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0006" x="1149" y="969" width="572" height="919" frameX="-4" frameY="-3" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0007" x="1149" y="969" width="572" height="919" frameX="-4" frameY="-3" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0008" x="1329" y="0" width="573" height="922" frameX="0" frameY="0" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0009" x="1329" y="0" width="573" height="922" frameX="0" frameY="0" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0010" x="1329" y="0" width="573" height="922" frameX="0" frameY="0" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0011" x="1329" y="0" width="573" height="922" frameX="0" frameY="0" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0012" x="1329" y="0" width="573" height="922" frameX="0" frameY="0" frameWidth="581" frameHeight="922" />
+<SubTexture name="A-PipIdle0013" x="1329" y="0" width="573" height="922" frameX="0" frameY="0" frameWidth="581" frameHeight="922" />
+<SubTexture name="B-UpPose0000" x="0" y="0" width="665" height="969" frameX="-5" frameY="0" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0001" x="0" y="0" width="665" height="969" frameX="-5" frameY="0" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0002" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0003" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0004" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0005" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0006" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0007" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0008" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0009" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0010" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0011" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0012" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0013" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0014" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0015" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0016" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0017" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0018" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0019" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0020" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0021" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0022" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0023" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="B-UpPose0024" x="665" y="0" width="664" height="943" frameX="0" frameY="-21" frameWidth="670" frameHeight="969" />
+<SubTexture name="C-DownPose0000" x="3757" y="0" width="738" height="735" frameX="0" frameY="-23" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0001" x="3757" y="0" width="738" height="735" frameX="0" frameY="-23" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0002" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0003" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0004" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0005" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0006" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0007" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0008" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0009" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0010" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0011" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0012" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0013" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0014" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0015" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0016" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0017" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0018" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0019" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0020" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0021" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0022" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0023" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="C-DownPose0024" x="2323" y="2806" width="733" height="758" frameX="-3" frameY="0" frameWidth="738" frameHeight="758" />
+<SubTexture name="D- RightPose0000" x="1509" y="2806" width="814" height="808" frameX="0" frameY="-18" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0001" x="1509" y="2806" width="814" height="808" frameX="0" frameY="-18" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0002" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0003" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0004" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0005" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0006" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0007" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0008" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0009" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0010" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0011" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0012" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0013" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0014" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0015" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0016" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0017" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0018" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0019" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0020" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0021" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0022" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0023" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="D- RightPose0024" x="723" y="2806" width="786" height="826" frameX="-8" frameY="0" frameWidth="814" frameHeight="826" />
+<SubTexture name="E-LeftPose0000" x="0" y="2806" width="723" height="886" frameX="0" frameY="-4" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0001" x="0" y="2806" width="723" height="886" frameX="0" frameY="-4" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0002" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0003" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0004" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0005" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0006" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0007" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0008" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0009" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0010" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0011" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0012" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0013" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0014" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0015" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0016" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0017" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0018" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0019" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0020" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0021" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0022" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0023" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="E-LeftPose0024" x="3058" y="0" width="699" height="894" frameX="-19" frameY="0" frameWidth="723" frameHeight="894" />
+<SubTexture name="K-Cutscene0000" x="0" y="969" width="573" height="922" frameX="-74" frameY="0" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0001" x="0" y="969" width="573" height="922" frameX="-74" frameY="0" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0002" x="0" y="969" width="573" height="922" frameX="-74" frameY="0" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0003" x="0" y="969" width="573" height="922" frameX="-74" frameY="0" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0004" x="594" y="1891" width="573" height="910" frameX="-82" frameY="-12" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0005" x="594" y="1891" width="573" height="910" frameX="-82" frameY="-12" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0006" x="2474" y="916" width="581" height="913" frameX="-109" frameY="-16" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0007" x="2474" y="916" width="581" height="913" frameX="-109" frameY="-16" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0008" x="2474" y="916" width="581" height="913" frameX="-109" frameY="-16" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0009" x="2474" y="916" width="581" height="913" frameX="-109" frameY="-16" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0010" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0011" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0012" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0013" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0014" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0015" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0016" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0017" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0018" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0019" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0020" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0021" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0022" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0023" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0024" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0025" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0026" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0027" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0028" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0029" x="573" y="969" width="576" height="922" frameX="-99" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0030" x="1902" y="0" width="572" height="917" frameX="-101" frameY="-13" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0031" x="1902" y="0" width="572" height="917" frameX="-101" frameY="-13" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0032" x="2295" y="1891" width="587" height="902" frameX="-78" frameY="-28" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0033" x="2295" y="1891" width="587" height="902" frameX="-78" frameY="-28" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0034" x="2474" y="0" width="584" height="916" frameX="0" frameY="-2" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0035" x="2474" y="0" width="584" height="916" frameX="0" frameY="-2" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0036" x="2474" y="0" width="584" height="916" frameX="0" frameY="-2" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0037" x="2474" y="0" width="584" height="916" frameX="0" frameY="-2" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0038" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0039" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0040" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0041" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0042" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0043" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0044" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0045" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0046" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0047" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0048" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0049" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0050" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0051" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0052" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0053" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0054" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0055" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0056" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0057" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0058" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0059" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0060" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0061" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0062" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0063" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0064" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0065" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0066" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0067" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0068" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0069" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0070" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0071" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0072" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0073" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0074" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0075" x="0" y="1891" width="594" height="915" frameX="-16" frameY="-7" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0076" x="1167" y="1891" width="563" height="905" frameX="-77" frameY="-25" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0077" x="1167" y="1891" width="563" height="905" frameX="-77" frameY="-25" frameWidth="690" frameHeight="930" />
+<SubTexture name="K-Cutscene0078" x="594" y="1891" width="573" height="910" frameX="-82" frameY="-12" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0079" x="594" y="1891" width="573" height="910" frameX="-82" frameY="-12" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0080" x="0" y="969" width="573" height="922" frameX="-74" frameY="0" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0081" x="0" y="969" width="573" height="922" frameX="-74" frameY="0" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0082" x="0" y="969" width="573" height="922" frameX="-74" frameY="0" frameWidth="1012" frameHeight="934" />
+<SubTexture name="K-Cutscene0083" x="0" y="969" width="573" height="922" frameX="-74" frameY="0" frameWidth="1012" frameHeight="934" />
+</TextureAtlas>
