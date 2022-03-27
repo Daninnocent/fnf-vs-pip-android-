@@ -4091,8 +4091,7 @@ class PlayState extends MusicBeatState
 		deathCounter = 0;
 		
 		var ret:Dynamic = callOnLuas('onEndSong', []);
-
-		if(ret != FunkinLua.Function_Stop && !transitioning) {
+		
 			if (SONG.validScore)
 			{
 				#if !switch
@@ -4185,7 +4184,6 @@ class PlayState extends MusicBeatState
 			}
 			transitioning = true;
 		}
-	}
 
 	function pipDiesOfDeath():Void // just a copy of finish song but pip dies lmao
 		{
