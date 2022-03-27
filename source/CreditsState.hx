@@ -92,6 +92,9 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+	    ['Android Port'],
+		  ['Saw (M.A. Jigsaw)','saw','Helped fixed some crashing issues','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
+		  ['Daninnocent', 'dan', 'the dude who made this shit port smh' 'https://youtube.com/channel/UCPddB_emjwVerq1RxsJLfDQ',  '389A58']
 			['Vs Pip Team'],
 			['Crae',		'crae',		'Main Artist of Vs Pip',						'https://twitter.com/Crae_YT',	'5b5b5b'],
 			['Charlie',			'charlie',		'Main Charter of Vs Pip',					'https://twitter.com/pickled_bastard',		'8fce00'],
@@ -167,6 +170,8 @@ class CreditsState extends MusicBeatState
 		descText.scrollFactor.set();
 		descText.borderSize = 2.4;
 		add(descText);
+		
+		addVirtualPad(UP_DOWN, A_B);
 
 		
 
