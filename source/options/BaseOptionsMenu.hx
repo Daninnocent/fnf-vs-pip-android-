@@ -148,7 +148,8 @@ class BaseOptionsMenu extends MusicBeatSubstate
 		}
 
 		if (controls.BACK) {
-			MusicBeatState.resetState(); // stole your code jigsaw lollsdasdlsapldpasdlasodoasdko
+			FlxTransitionableState.skipNextTransOut = true;
+			FlxG.resetState(); // stole your code jigsaw lollsdasdlsapldpasdlasodoasdko
 			FlxG.sound.play(Paths.sound('cancelMenu'));
 		}
 
