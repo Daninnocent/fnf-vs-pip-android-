@@ -4087,18 +4087,8 @@ class PlayState extends MusicBeatState
 				return;
 			}
 		}
-		
-		timeBarBG.visible = false;
-		timeBar.visible = false;
-		timeTxt.visible = false;
-		canPause = false;
-		endingSong = true;
-		camZooming = false;
-		inCutscene = false;
-		updateTime = false;
 
 		deathCounter = 0;
-		seenCutscene = false;
 		
 		var ret:Dynamic = callOnLuas('onEndSong', []);
 
