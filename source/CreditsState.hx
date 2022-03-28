@@ -93,7 +93,7 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 	    ['Android Port'],
-		  ['Saw (M.A. Jigsaw)','saw','Helped fixed some crashing issues','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
+		  ['Saw (M.A. Jigsaw)','saw','Helped fixed some crashing issues and his psych engine port','https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ', 'F73838'],
 		  ['Daninnocent', 'dorito', 'the dude who made this shit port smh', 'https://youtube.com/channel/UCPddB_emjwVerq1RxsJLfDQ',  '389A58'],
 			['Vs Pip Team'],
 			['Crae',		'crae',		'Main Artist of Vs Pip',						'https://twitter.com/Crae_YT',	'5b5b5b'],
