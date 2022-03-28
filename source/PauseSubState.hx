@@ -160,7 +160,7 @@ class PauseSubState extends MusicBeatSubstate
 				var poop = Highscore.formatSong(name, curSelected);
 				PlayState.SONG = Song.loadFromJson(poop, name);
 				PlayState.storyDifficulty = curSelected;
-				MusicBeatState.resetState();
+				FlxG.resetState();
 				FlxG.sound.music.volume = 0;
 				PlayState.changedDifficulty = true;
 				PlayState.chartingMode = false;
@@ -218,7 +218,7 @@ class PauseSubState extends MusicBeatSubstate
 		}
 		else
 		{
-			MusicBeatState.resetState();
+			FlxG.resetState();
 		}
 	}
 
